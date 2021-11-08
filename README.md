@@ -20,6 +20,8 @@ Web3.js v1.3.5
 
 refer to deployment.txt file in project root
 
+ABI's can be found in Eth-contracts folder
+
 SolnSquareVerifier Contract Address on Rinkeby Testnet --> https://rinkeby.etherscan.io/address/0x90bce93ab9c03776b8fb33fcc49eaaa116f061cf
 
 # Opensea Storefront (SolnSquare)
