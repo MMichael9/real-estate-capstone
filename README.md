@@ -24,13 +24,30 @@ ABI's can be found in Eth-contracts folder
 
 SolnSquareVerifier Contract Address on Rinkeby Testnet --> https://rinkeby.etherscan.io/address/0x90bce93ab9c03776b8fb33fcc49eaaa116f061cf
 
-# Opensea Storefront (SolnSquare)
+# Opensea Storefront
 
-https://testnets.opensea.io/collection/udacitycapstone-realestate
+https://testnets.opensea.io/collection/michael-realestate
 
-token --> https://testnets.opensea.io/assets/0x90bce93ab9c03776b8fb33fcc49eaaa116f061cf/1
+Token 2 - https://testnets.opensea.io/assets/0x3799a4790232e4706fca24c26ffe2d8ede68fffc/2
 
-token transfer --> https://rinkeby.etherscan.io/tx/0x48b78c99544a212d038e8b52a5da5663f04cda18a3fb91293b7c5db4b7cb49d5
+Transfer - https://rinkeby.etherscan.io/tx/0x61437621287a22c91b993f933cba2619bf9062cffcb87c4d23a986e70a42e3cf
+
+Token 3 - https://testnets.opensea.io/assets/0x3799a4790232e4706fca24c26ffe2d8ede68fffc/3
+
+Transfer - https://rinkeby.etherscan.io/tx/0x8ad8ae32d0059b79b45d54b90fa42166f6480e221d96a0603f54a53e20e93320
+
+Token 4 - https://testnets.opensea.io/assets/0x3799a4790232e4706fca24c26ffe2d8ede68fffc/4
+
+Transfer - https://rinkeby.etherscan.io/tx/0x409f723cd23bb79ed20c2ba0db584000390c7b6d03ac9d6981493475821b94cc
+
+Token 5 - https://testnets.opensea.io/assets/0x3799a4790232e4706fca24c26ffe2d8ede68fffc/5
+
+Transfer - https://rinkeby.etherscan.io/tx/0x565801e06c927ef843b38d7c316448266619658eea908d31635734f9b02cbb6e
+
+Token 6 - https://testnets.opensea.io/assets/0x3799a4790232e4706fca24c26ffe2d8ede68fffc/6
+
+Transfer - https://rinkeby.etherscan.io/tx/0x2b84573824b5afa10a91c5e36328772de5314ea64a2e8c3198e19f1d9faa4e16
+
 
 
 # Project Resources
